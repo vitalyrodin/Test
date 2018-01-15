@@ -38,5 +38,5 @@ Examples:
       | facebook | https://www.facebook.com/CastleWater.LP/ |
       | twitter | https://twitter.com/castlewaterltd?lang=en |
       | google | https://plus.google.com/107315060466616716454 |
-      | linkedin | https://www.linkedin.com/company/castle-water-ltd |
+      | linkedin | https://www.linkedin.co
 
