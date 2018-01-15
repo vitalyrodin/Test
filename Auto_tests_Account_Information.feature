@@ -40,5 +40,5 @@ Scenario: "Change Password" button functionality
 Given I am logged in as John Smith
 When I visit the "Account Information" page
 And click on the "Change Password" button
-Then "Change Password" page opens
+Then "Change Passwor
 
