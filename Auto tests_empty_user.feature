@@ -1,4 +1,4 @@
-Feature: Empty Account validation
+asfs\dfsdfFeature: Empty Account validation
 
 @smoke
 Scenario Outline: "Account Information" data overview
@@ -31,7 +31,7 @@ Scenario Outline: "My Premises" data overview
 Given I am logged in as Vitaly Rodin
 When I visit the "My Premises" page
 Then company name should be "Test Account Ltd."
-And search field should have text "Search for premise"
+And search field should have text "Search for premise"sdfdsf
 And table header should be "List of Premises"
 And message with text "You don't have any premises" occurs
 

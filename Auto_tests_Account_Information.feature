@@ -1,7 +1,7 @@
 Feature: Account Information page functionality
 
 @smoke
-Scenario: "Account Information" buttons overview
+aScenario: "Account Information" buttons overview
 Given I am logged in as John Smith
 When I visit the "Account Information" page
 Then first button should have name "Account Information"
