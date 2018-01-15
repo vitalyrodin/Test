@@ -1,7 +1,7 @@
 Feature: Account Information page functionality
 
 @smoke
-Scenario: "Account Information" buttons overview
+aScenario: "Account Information" buttons overview
 Given I am logged in as John Smith
 When I visit the "Account Information" page
 Then first button should have name "Account Information"
@@ -40,5 +40,5 @@ Scenario: "Change Password" button functionality
 Given I am logged in as John Smith
 When I visit the "Account Information" page
 And click on the "Change Password" button
-Then "Change Password" page opens
+Then "Change Passwor
 
