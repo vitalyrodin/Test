@@ -25,7 +25,7 @@ Examples:
       | Copyright | https://www.castlewater.co.uk/wp-content/uploads/2017/05/Copyright-Statement.pdf |
       | Tariffs | https://www.castlewater.co.uk/useful-resources/ |
       | Live Chat | http://www.castlewater.co.uk/#link |
-      | Contact Us | https://www.castlewater.co.uk/contact/ |
+   
 
 @smoke
 Scenario Outline: Footer buttons validation
